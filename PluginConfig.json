@@ -1,0 +1,21 @@
+﻿{
+  "assembly": [
+    "SignatureCellType.dll"
+  ],
+  "javascript": [
+    "Resources\\signatureJs\\signature_pad.js",
+    "Resources\\SignatureCellType.js"
+  ],
+  "css": [
+  ],
+  "image": "Resources\\Image.png",
+  "description": "Signature the name in web page.",
+  "description_ja": "手書きによる署名を行うためのセル型です。",
+  "description_cn": "可在页面上进行签名。",
+  "name": "SignatureCellType",
+  "name_ja": "署名型セル",
+  "name_cn": "签名",
+  "pluginType": "cellType",
+  "guid": "648478a2-b049-4521-b943-fc0f2212e837",
+  "version": "1.0.0.0"
+}
