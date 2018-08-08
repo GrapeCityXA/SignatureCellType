@@ -1,6 +1,6 @@
 #### 插件打包下载
-活字格签名单元格类型插件下载：https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48636&extra=page%3D1%26filter%3Dtypeid%26typeid%3D246
-活字格官网：https://www.grapecity.com.cn/solutions/huozige
+* 活字格签名单元格类型插件下载：https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48636&extra=page%3D1%26filter%3Dtypeid%26typeid%3D246
+* 活字格官网：https://www.grapecity.com.cn/solutions/huozige
 
 #### SignatureCellType
 功能：支持用户签名，可将签名结果保存到数据库中。
